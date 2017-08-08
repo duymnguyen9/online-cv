@@ -15,6 +15,7 @@ body {
   background-image: url("https://duymnguyen9.github.io/resume/assets/images/pic1.jpg");
   background-repeat: no-repeat;
   background-attachment: fixed;
+  background-position: center center;
   font-size: 14px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
