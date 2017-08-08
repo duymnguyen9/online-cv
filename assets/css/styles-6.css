@@ -16,6 +16,7 @@ body {
   background-repeat: no-repeat;
   background-attachment: fixed;
   background-position: center center;
+  background-size: cover;
   font-size: 14px;
   padding: 30px;
   -webkit-font-smoothing: antialiased;
